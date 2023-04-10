@@ -26,7 +26,7 @@
 <p>
 <img src=https://i.imgur.com/8Idsgpx.png/>
 </p>
-Logged in to the Domain controller virtual machine and created these four folders the set permissions. Folder “read-access” was shared with “Domain Users” group, Permission was set to “Read”. Folder “write-access”, was shared with the “Domain Users” group and the Permissions was set to “Read/Write” and the folder “no-access” shared with “Domain Admins” and permissions “Permissions: “Read/Write”
+Logged in to the Domain controller virtual machine and created these four folders to set permissions. Folder “read-access” was shared with “Domain Users” group, Permission was set to “Read”. Folder “write-access”, was shared with the “Domain Users” group and the Permissions was set to “Read/Write” and the folder “no-access” shared with “Domain Admins” and permissions “Permissions: “Read/Write”
 
 <img src=https://i.imgur.com/45fio4x.png/> <img src=https://i.imgur.com/45fio4x.png/> <img src=https://i.imgur.com/45fio4x.png/>
 
