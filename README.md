@@ -47,7 +47,7 @@ An Accountant security group was created in active directory and the accounting 
 <br />
 
 <p>
-I then gave permissions to the user to have access to the accountant folder. The pictures now that the user has access to the folder.
+I then gave permissions to the user to have access to the accountant folder. The pictures belows shows now that the user has access to the folder.
   
   <img src=https://i.imgur.com/4LoGpYD.png/> <img src=https://i.imgur.com/gWZA9HH.png/>
 </p>
