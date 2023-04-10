@@ -26,7 +26,7 @@
 <p>
 <img src=https://i.imgur.com/8Idsgpx.png/>
 </p>
-Logged in the Domain controller virtual machine and created this four folders to set permissions. Folder “read-access” was shared with “Domain Users” group, Permission was set to “Read”. Folder “write-access”, was shared with the “Domain Users” group and the Permissions was set to “Read/Write” and the folder “no-access” shared with “Domain Admins” and permissions “Permissions: “Read/Write”
+Logged in to the Domain controller virtual machine and created these four folders the set permissions. Folder “read-access” was shared with “Domain Users” group, Permission was set to “Read”. Folder “write-access”, was shared with the “Domain Users” group and the Permissions was set to “Read/Write” and the folder “no-access” shared with “Domain Admins” and permissions “Permissions: “Read/Write”
 
 <img src=https://i.imgur.com/45fio4x.png/> <img src=https://i.imgur.com/45fio4x.png/> <img src=https://i.imgur.com/45fio4x.png/>
 
@@ -35,18 +35,18 @@ Logged in the Domain controller virtual machine and created this four folders to
 <br />
 
 <p>
-I then logged in to Client-1 run the domain controller folders to test wheather I was able to access some folders. I was not able to access the "no-access" which shows that the permissions worked.
+I then logged in to Client-1 to run the domain controller folders to test wheather the folders were accessible. The "no-access" folder did not open which shows that the permissions worked.
 <img src=https://i.imgur.com/C7q7AFb.png/>
 </p>
 <p>
-An Accountant security group was created in active directory and the accounting folder was then shared to this security group. I then attempted to access the accountant folder with a user but since the user is not in the security group, he had no access.
+An Accountant security group was created in active directory and the accounting folder was then shared to this security group.The accountant folder was then accessed with a user but since the user is not in the security group, they had no access.
   
   <img src=https://i.imgur.com/6FeAMr7.png/> <img src=https://i.imgur.com/d3z6YGy.png/> <img src=https://i.imgur.com/8nPNwNQ.png/>
 </p>
 <br />
 
 <p>
-I then gave permissions to the user to have access to the accountant folder. The pictures belows shows now that the user has access to the folder.
+The user was then given permissions to access the accounting folder The pictures belows shows now that the user has access to the folder.
   
   <img src=https://i.imgur.com/4LoGpYD.png/> <img src=https://i.imgur.com/gWZA9HH.png/>
 </p>
