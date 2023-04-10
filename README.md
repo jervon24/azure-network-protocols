@@ -40,14 +40,15 @@ I then logged in to Client-1 run the domain controller folders to test wheather 
 <img src=https://i.imgur.com/C7q7AFb.png/>
 </p>
 <p>
-An Accountant security group was created in active directory
+An Accountant security group was created in active directory and the accounting folder was then shared to this security group. I then attempted to access the accountant folder with a user but since the user is not in the security group, he had no access.
+  
+  <img src=https://i.imgur.com/6FeAMr7.png/> <img src=https://i.imgur.com/d3z6YGy.png/> <img src=https://i.imgur.com/8nPNwNQ.png/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I then gave permissions to the user to have access to the accountant folder. The pictures now that the user has access to the folder.
+  
+  <img src=https://i.imgur.com/4LoGpYD.png/> <img src=https://i.imgur.com/gWZA9HH.png/>
 </p>
 <br />
