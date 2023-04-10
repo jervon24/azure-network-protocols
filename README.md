@@ -8,7 +8,6 @@
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Command Line
 
 <h2>Operating Systems Used </h2>
 
@@ -19,7 +18,7 @@
 
 - Log in to the Virtual Machine
 - Create folders and set Permissions
-- Acesses certain folders as users
+- Access certain folders as users
 
 
 <h2>Actions and Observations</h2>
